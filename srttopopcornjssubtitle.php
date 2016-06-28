@@ -1,6 +1,6 @@
 <?php
 // srt-Datei in popcorn.js plugin subtitle-Form konvertieren
-// Lizenz: BSD-Lizenz https://de.wikipedia.org/wiki/BSD-Lizenz
+// Lizenz: MIT license
 // Datum: 13.12.2012
 // 
 
